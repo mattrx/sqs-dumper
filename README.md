@@ -1,4 +1,4 @@
-# AWS SWS Dumper
+# AWS SQS Dumper
 
 CLI script to dump messages from an AWS SQS queue into a directory with one file for each message.
 
