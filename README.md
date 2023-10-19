@@ -4,7 +4,7 @@ CLI script to dump messages from an AWS SQS queue into a directory with one file
 
 # Installation
 
-    go install github.com/mattrx/sqs-dumper
+    go install github.com/mattrx/sqs-dumper@latest
 
 # Usage
 
